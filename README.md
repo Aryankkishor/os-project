@@ -7,6 +7,12 @@ order,is:
 86, 1470, 913, 1774, 948, 1509, 1022, 1750, 130
 Starting from the current head position, what is the total distance (in cylinders)that the disk arm moves to satisfy all the pending requests for each of the FCFS disk-scheduling algorithms?
 ques 
+
+
+
+
+
+
 17.	Design a scheduling program to implements a Queue with two levels:
 Level 1 : Fixed priority preemptive Scheduling
 Level 2: Round Robin Scheduling
