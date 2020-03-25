@@ -1,6 +1,8 @@
 # os-project
 NAME: Aryan kishor 
-email: aryankishor72820@gmail.com
+Email id	as6825193@gmail.com
+registration number: 11804859
+
 ques 
 10.	Write a C program to solve the following problem: Suppose that a disk drive has 5,000 cylinders, numbered 0 to 4999. The drive is currently serving a request at cylinder143, and the previous request was at cylinder 125. The queue of pending requests, in FIFO
 order,is:
